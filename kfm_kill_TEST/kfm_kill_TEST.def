@@ -1,0 +1,22 @@
+
+[Info]
+name = "Kung Fu Man"
+displayname = "TEST"
+author = "Halkaze"
+pal.defaults = 1
+
+[Files]
+cmd = kfm.cmd
+cns = kfm.cns
+st = kfm.cns
+st0 = DBOF.st
+stcommon = common1.cns
+sprite = kfm.sff
+anim = kfm.air
+sound = kfm.snd
+pal1 = kfm6.act
+pal2 = kfm4.act
+pal3 = kfm2.act
+pal4 = kfm5.act
+pal5 = kfm3.act
+pal6 = kfm.act
